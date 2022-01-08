@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "random": "c",
+        "limits": "c"
+    }
+}
